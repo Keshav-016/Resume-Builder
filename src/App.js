@@ -7,14 +7,14 @@ const App = () => {
     {
       id: '1',
       name: 'Profile Summary',
-      description: 'concise overview of a persons professional background, skills, experiences, and achievements.',
+      description: 'overview of a persons professional background, skills, and experiences.',
       active: true,
       modified: false,
     },
     {
       id: '2',
       name: 'Academic and Cocurricular Achievements',
-      description: 'Include details about the accomplishments related to academic pursuits and involvement in cocurricular activities. ',
+      description: 'Include details about the accomplishments. ',
       active: true,
       modified: false,
     },
@@ -49,14 +49,14 @@ const App = () => {
     {
       id: '7',
       name: 'Leadership Position',
-      description: 'Information about the specific leadership roles you have held or the positions you have occupied in various organizations.',
+      description: 'Information about the specific leadership roles.',
       active: true,
       modified: false,
     },
     {
       id: '8',
       name: 'Extracurricular',
-      description: 'Information about the extracurricular activities you participated in',
+      description: 'Information about the extracurricular activities participated in',
       active: true,
       modified: false,
     },
