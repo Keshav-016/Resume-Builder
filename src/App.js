@@ -56,7 +56,7 @@ const App = () => {
     {
       id: '8',
       name: 'Extracurricular',
-      description: 'Information about the extracurricular activities participated in',
+      description: 'Information about the extracurricular activities',
       active: true,
       modified: false,
     },
