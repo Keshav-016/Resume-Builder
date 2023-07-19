@@ -1,11 +1,11 @@
 # Resume Builder
 ## Table of Contents
-### - Introduction
-### - Features
-### - Usage
-### - Installation
-### - Contributing
-### - License
+### * Introduction
+### * Features
+### * Usage
+### * Installation
+### * Contributing
+### * License
 ##Introduction
 The Resume Builder is a user-friendly web application that allows users to create and customize their resumes effortlessly. It provides a drag-and-drop interface to arrange various resume sections, an edit option to modify section names, a toggle button to enable or disable specific sections, and an informative tooltip to understand each section's purpose.
 
