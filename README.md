@@ -1,8 +1,40 @@
-The screens below are part of a resume builder tool. The user can manage the names, order and presence of sections on their resume using this page.
+# Resume Builder
+## Table of Contents
+### - Introduction
+### - Features
+### - Usage
+### - Installation
+### - Contributing
+### - License
+##Introduction
+The Resume Builder is a user-friendly web application that allows users to create and customize their resumes effortlessly. It provides a drag-and-drop interface to arrange various resume sections, an edit option to modify section names, a toggle button to enable or disable specific sections, and an informative tooltip to understand each section's purpose.
 
-There is a master list of sections allowed on the resume. This list is shown in the design. The user can perform the following actions:
-Drag drop the section to indicate the order in which the sections should be shown on their resumes. Animation is required to show the user which section is being moved where. (triple -)  button should be used to drag drop
-An edit button (With pencil icon) allows the user to change the name of the section
-The toggle button allows the user to switch a section on or off enabling the user display/ not display that section on the resume
-The save button should be enabled only if the user has changed something
-Clicking on (i) button shows a description of the section
+Features
+Drag and Drop: Arrange sections by dragging and dropping them into the desired order with intuitive animations to visualize the changes.
+Edit Section Names: Customize the resume by changing the names of sections to match the user's preferences.
+Toggle Sections: Enable or disable sections as needed to control the display of information on the resume.
+Save Functionality: The save button activates whenever changes are made, ensuring that no updates are lost.
+Information Tooltip: Clicking on the (i) button provides users with descriptions of each resume section, helping them understand their purposes better.
+Usage
+Drag and Drop Sections:
+
+Click and hold the triple (-) button next to a section title to start dragging it.
+While dragging, an animation will indicate the potential drop position.
+Release the section to drop it into the desired order.
+Edit Section Names:
+
+Click on the edit button (pencil icon) next to a section title.
+A textbox will appear, allowing you to modify the section name.
+Press Enter or click outside the textbox to save the changes.
+Toggle Sections:
+
+To enable or disable a section, use the toggle button next to the section title.
+Enabled sections will be displayed on the resume, while disabled sections will be hidden.
+Save Changes:
+
+The save button will activate whenever you make any modifications to the resume.
+Click the save button to save your changes and update your resume.
+Information Tooltip:
+
+Click on the (i) button next to a section title to view a description of that particular section.
+The tooltip will provide insights into the purpose and recommended content for each section.
