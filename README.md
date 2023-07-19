@@ -6,17 +6,18 @@
 * Installation
 * Contributing
 * License
-##Introduction
+  
+## Introduction
 The Resume Builder is a user-friendly web application that allows users to create and customize their resumes effortlessly. It provides a drag-and-drop interface to arrange various resume sections, an edit option to modify section names, a toggle button to enable or disable specific sections, and an informative tooltip to understand each section's purpose.
 
-##Features
+## Features
 * Drag and Drop: Arrange sections by dragging and dropping them into the desired order with intuitive animations to visualize the changes.
 * Edit Section Names: Customize the resume by changing the names of sections to match the user's preferences.
 * Toggle Sections: Enable or disable sections as needed to control the display of information on the resume.
 * Save Functionality: The save button activates whenever changes are made, ensuring that no updates are lost.
 * Information Tooltip: Clicking on the (i) button provides users with descriptions of each resume section, helping them understand their purposes better.
 
-##Usage
+## Usage
 1. Drag and Drop Sections:
 
 * Click and hold the triple - button next to a section title to start dragging it.
