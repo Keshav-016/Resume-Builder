@@ -1,6 +1,6 @@
 # Resume Builder
 ## Table of Contents
-### * Introduction
+* Introduction
 ### * Features
 ### * Usage
 ### * Installation
